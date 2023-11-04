@@ -117,4 +117,5 @@ while True :
         compute_send_receive()
     else:
         no_data_sent("no_data")
+        print("")
 
